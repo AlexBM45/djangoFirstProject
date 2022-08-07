@@ -8,6 +8,8 @@ django = "*"
 djangorestframework = "*"
 psycopg2 = "*"
 dj-database-url = "*"
+gunicorn = "*"
+python-decouple = "*"
 
 [dev-packages]
 
